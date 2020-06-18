@@ -12,5 +12,4 @@ pip3 install flask gunicorn virtualenv flask-sqlalchemy
 sudo apt -y install nginx
 # Folder Commands
 mkdir /home/vagrant/ todo
-cd /todo
 virtualenv todo_env
